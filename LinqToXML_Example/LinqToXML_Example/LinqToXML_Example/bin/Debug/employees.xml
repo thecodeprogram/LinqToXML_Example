@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XML File Created at first time at : 10.04.2020 18:49:29-->
+<Employees>
+  <Employee ID="1">
+    <!--New Employee ID : 1-->
+    <Name>Burak Hamdi</Name>
+    <Surname>TUFAN</Surname>
+    <Role>Manager</Role>
+    <Salary>10000TL</Salary>
+  </Employee>
+  <Employee ID="2">
+    <!--New Employee ID : 2-->
+    <Name>TheCode</Name>
+    <Surname>Program</Surname>
+    <Role>Developer</Role>
+    <Salary>0USD</Salary>
+  </Employee>
+</Employees>
